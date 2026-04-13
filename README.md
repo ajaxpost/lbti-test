@@ -6,7 +6,7 @@
 
 ## 在线体验
 
-👉 [点击开始测试](#)
+👉 [点击开始测试](https://ajaxpost.github.io/lbti-test/)
 
 ## 项目简介
 
